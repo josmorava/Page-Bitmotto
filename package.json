@@ -1,0 +1,35 @@
+{
+  "name": "bitmotto-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.0",
+    "@heroicons/react": "^1.0.6",
+    "@socialgouv/matomo-next": "^1.4.0",
+    "@tailwindcss/forms": "^0.5.3",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.27.2",
+    "next": "^12.3.0",
+    "next-seo": "^5.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-number-format": "^4.9.4",
+    "react-phone-input-2": "^2.15.1",
+    "sharp": "^0.31.0"
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.0.0",
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.3.0",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}

@@ -1,0 +1,9 @@
+.git
+.env.local.example
+next-seo.config.js.example
+next-seo-es.config.js.example
+README.md
+Dockerfile
+Jenkinsfile
+node_modules
+package-lock.json

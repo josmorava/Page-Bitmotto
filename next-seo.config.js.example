@@ -1,0 +1,31 @@
+export default {
+    defaultTitle: "Bitmotto",
+    description: "Institutional grade cryptocurrency trading platform with 24/7 real-time quotes.",
+    languageAlternates: [
+        {
+            hrefLang: 'en',
+            href: 'https://bitmotto.com/',
+        },
+        {
+            hrefLang: 'es',
+            href: 'https://bitmotto.com/es',
+        },
+    ],
+    openGraph: {
+      type: 'website',
+      locale: 'en_IE',
+      url: 'https://bitmotto.com/',
+      site_name: 'Bitmotto',
+    },
+    twitter: {
+      handle: '@bitmottoHQ',
+      site: '@bitmottoHQ',
+      cardType: 'bitmottoHQ',
+    },
+    additionalMetaTags:[
+      {
+        name: 'keywords',
+        content: 'bitmotto, crypto, blockchain consulting, otc, regulated otc, ue regulated otc, whitelabel exchange, whitelabel broker, whitelabel cripto pos, custody as a service, kyc as a service, tokenization, real estate tokenization'
+      }, 
+    ]
+};
